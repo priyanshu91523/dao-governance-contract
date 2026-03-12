@@ -1,1 +1,7 @@
-# dao-governance-contract
+## Features
+
+proposal creation
+
+voting
+
+proposal execution
